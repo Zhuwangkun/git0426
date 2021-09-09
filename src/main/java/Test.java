@@ -7,5 +7,6 @@ public class Test {
         System.out.println("hello world");
         System.out.println("hello shanghai");
         System.out.println("master");
+        System.out.println("push");
     }
 }
