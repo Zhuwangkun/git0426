@@ -8,5 +8,6 @@ public class Test {
         System.out.println("hello shanghai");
         System.out.println("master");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
